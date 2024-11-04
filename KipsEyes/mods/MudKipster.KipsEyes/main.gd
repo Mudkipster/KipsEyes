@@ -19,4 +19,12 @@ func _ready():
 	Lure.add_content(ID, "eye_wings_heart", "mod://Resources/Cosmetics/eye_wings_heart.tres",[Lure.FLAGS.FREE_UNLOCK])
 	Lure.add_content(ID, "eye_glamor_heart", "mod://Resources/Cosmetics/eye_glamor_heart.tres",[Lure.FLAGS.FREE_UNLOCK])
 	Lure.add_content(ID, "eye_furious", "mod://Resources/Cosmetics/eye_furious.tres",[Lure.FLAGS.FREE_UNLOCK])
+	Lure.add_content(ID, "eye_crazed", "mod://Resources/Cosmetics/eye_crazed.tres",[Lure.FLAGS.FREE_UNLOCK])
+	Lure.add_content(ID, "eye_dancer", "mod://Resources/Cosmetics/eye_dancer.tres",[Lure.FLAGS.FREE_UNLOCK])
+	Lure.add_content(ID, "eye_devil", "mod://Resources/Cosmetics/eye_devil.tres",[Lure.FLAGS.FREE_UNLOCK])
+	Lure.add_content(ID, "eye_ectoplasmic", "mod://Resources/Cosmetics/eye_ectoplasmic.tres",[Lure.FLAGS.FREE_UNLOCK])
+	Lure.add_content(ID, "eye_meowsketeer", "mod://Resources/Cosmetics/eye_meowsketeer.tres",[Lure.FLAGS.FREE_UNLOCK])
+	Lure.add_content(ID, "eye_spooky", "mod://Resources/Cosmetics/eye_spooky.tres",[Lure.FLAGS.FREE_UNLOCK])
+	Lure.add_content(ID, "eye_thin_stripe", "mod://Resources/Cosmetics/eye_thin_stripe.tres",[Lure.FLAGS.FREE_UNLOCK])
+	Lure.add_content(ID, "eye_blizzard", "mod://Resources/Cosmetics/eye_blizzard.tres",[Lure.FLAGS.FREE_UNLOCK])
 	
